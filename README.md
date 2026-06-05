@@ -1,28 +1,159 @@
-## Bem-vindo(a) ao meu perfil 😁
+# 👋 Olá, eu sou Adriel Abner
 
-<div>
-   <a href="https://github.com/Adriel-Abner-Aparecido">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Adriel-Abner-Aparecido&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adriel-Abner-Aparecido&layout=compact&langs_count=6&theme=tokyonight"/>
+<div align="center">
+
+### 🚀 Full Stack Developer
+
+Construindo aplicações modernas, APIs escaláveis e experiências web de alta performance.
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=JavaScript+Developer;TypeScript+Enthusiast;React+%2B+Next.js;NestJS+Backend+Developer;Always+Learning+Something+New" />
 
 </div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+
+---
+
+## 💻 Sobre mim
+
+```typescript
+class Developer {
+  name = "Adriel Abner";
+  role = "Full Stack Developer";
+
+  frontend = [
+    "React",
+    "Next.js",
+    "TypeScript",
+    "Tailwind CSS"
+  ];
+
+  backend = [
+    "Node.js",
+    "NestJS",
+    "REST API",
+    "JWT",
+    "OAuth"
+  ];
+
+  databases = [
+    "PostgreSQL",
+    "SQLite",
+    "MongoDB"
+  ];
+
+  devops = [
+    "Docker",
+    "GitHub Actions",
+    "Linux"
+  ];
+
+  currentFocus() {
+    return [
+      "Arquitetura de Software",
+      "Cloud Computing",
+      "CI/CD",
+      "Kubernetes"
+    ];
+  }
+}
+```
+
+---
+
+## ⚡ Tecnologias
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nestjs,nodejs,postgres,mongodb,docker,git,github,linux,vscode" />
+
 </div>
- 
- <br>
- 
-  ### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
- 
-<div> 
-  <a href="https://www.youtube.com/udrihue" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/udrihue" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/udrihue" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:adriel5510@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/adriel-abner-aparecido-a11aab74/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/devemdobro/devemdobro/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+## 🎯 Especialidades
+
+- 🚀 Desenvolvimento Full Stack
+- 🌐 Aplicações Web com React e Next.js
+- 🔧 APIs REST com NestJS
+- 🔐 Autenticação JWT e OAuth
+- 🐳 Dockerização de aplicações
+- ⚙️ Integração e automação de processos
+- 📊 Sistemas administrativos e SaaS
+
+---
+
+## 📈 Estatísticas
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Adriel-Abner-Aparecido&show_icons=true&theme=transparent&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adriel-Abner-Aparecido&layout=compact&theme=transparent&hide_border=true"/>
+
+</div>
+
+---
+
+## 🔥 Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Adriel-Abner-Aparecido&theme=transparent&hide_border=true" />
+
+</div>
+
+---
+
+## 🏗️ Atualmente
+
+```txt
+✓ Next.js
+✓ NestJS
+✓ TypeScript
+✓ PostgreSQL
+✓ Docker
+
+Learning...
+→ Kubernetes
+→ Arquitetura de Microsserviços
+→ Cloud Native Applications
+```
+
+---
+
+## 📊 Contribuições
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Adriel-Abner-Aparecido&theme=github-compact&hide_border=true"/>
+
+</div>
+
+---
+
+## 🐍 Snake de Contribuições
+
+![Snake animation](https://github.com/Adriel-Abner-Aparecido/Adriel-Abner-Aparecido/blob/output/github-contribution-grid-snake.svg)
+
+
+---
+
+## ☕ Uma linha de código por vez
+
+```bash
+while(alive) {
+  learn();
+  build();
+  improve();
+  repeat();
+}
+```
+
+---
+
+<div align="center">
+
+### 🚀 Obrigado pela visita!
+
+⭐ Se algum projeto te ajudar, considere deixar uma estrela.
 
 </div>
