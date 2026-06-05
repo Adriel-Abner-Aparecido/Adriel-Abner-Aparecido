@@ -83,11 +83,11 @@ class Developer {
 
 ## 📈 Estatísticas
 
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Adriel-Abner-Aparecido&show_icons=true&theme=github_dark&hide_border=true" />
+![GitHub followers](https://img.shields.io/github/followers/Adriel-Abner-Aparecido?style=for-the-badge)
 
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adriel-Abner-Aparecido&layout=compact&theme=github_dark&hide_border=true" />
-</div>
+![GitHub stars](https://img.shields.io/github/stars/Adriel-Abner-Aparecido?style=for-the-badge)
+
+![Profile views](https://komarev.com/ghpvc/?username=Adriel-Abner-Aparecido&style=for-the-badge)
 
 ---
 
