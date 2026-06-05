@@ -81,16 +81,6 @@ class Developer {
 
 ---
 
-## 📈 Estatísticas
-
-![GitHub followers](https://img.shields.io/github/followers/Adriel-Abner-Aparecido?style=for-the-badge)
-
-![GitHub stars](https://img.shields.io/github/stars/Adriel-Abner-Aparecido?style=for-the-badge)
-
-![Profile views](https://komarev.com/ghpvc/?username=Adriel-Abner-Aparecido&style=for-the-badge)
-
----
-
 ## 🔥 Streak
 
 <div align="center">
